@@ -1,0 +1,7 @@
+Intro -> Dheena
+Visualization -> Dyuthi
+RandomForest Preprocessing  -> Tharindu
+(SVC & LSTM) Preprocessing  -> Tharindu
+SVC -> Vishnu
+RandomForest -> Tanya
+LSTM -> Bushra
